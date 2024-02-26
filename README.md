@@ -1,1 +1,1 @@
-# typescript-Assignments-2
+# typescript-Assignments-2-Name Cases
